@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7fb49096-75c5-413d-97fe-6e5197f2a65d">
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7bde225e-898d-45a1-9ae3-07cbe4a33e2d">
   <name>ДК_РаботаСФормами</name>
   <synonym>
     <key>ru</key>
-    <value>РаботаСФормами (ДК)</value>
+    <value>Работа с формами (ДК)</value>
   </synonym>
   <server>true</server>
   <externalConnection>true</externalConnection>
